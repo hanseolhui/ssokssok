@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/cover.png" width="640" alt="SsokSsok"></p>
 
-# 🐰 쏙쏙 (SsokSsok) — 맥 메뉴바 아이콘 정리
+# 🐱 쏙쏙 (SsokSsok) — 맥 메뉴바 아이콘 정리
 
 **메뉴바엔 상자 속 고양이 하나만.** 잘 안 쓰는 메뉴바 아이콘은 상자에 쏙 넣어 두고, 고양이에 마우스를 올리면 상자가 열려요. 상자에서 누르면 꺼내지 않고 그 자리에서 앱 메뉴가 떠요.
 
@@ -26,7 +26,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/hanseolhui/ssokssok/main
 **처음 한 번: 손쉬운 사용 권한 허용**
 시스템 설정 → 개인정보 보호 및 보안 → **손쉬운 사용** → SsokSsok 켜기
 
-## 🐰 할 수 있는 것
+## 🐱 할 수 있는 것
 
 | 하는 법 | 되는 것 |
 |---|---|
